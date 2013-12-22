@@ -1,0 +1,17 @@
+2009/9/15 - Felix
+*using domain 303project.feeltan.com.au 
+*The root folder of website is /html
+*create FTP/MYSQL account for team4
+
+
+2009/9/20 - Felix
+*Have the first version of website
+*skin folder will include all we need for interface design
+*include will include all model/library/class make by ourself
+*the php file under root folder will control user use the class under 
+includes folder for database or any algorithmic operation, then display by php file under skin folder.
+* we can have many skin in our website,so far we only have one named default
+
+2009/9/25 - Felix
+*A sample interface was done.It is similar to twitter but it is different.
+*

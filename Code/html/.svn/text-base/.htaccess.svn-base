@@ -1,0 +1,13 @@
+
+
+Options -MultiViews
+
+<IfModule mod_rewrite.c>
+ErrorDocument 404 errors/notfound.html
+RewriteEngine on
+
+
+
+RewriteRule ^home   home.php [QSA,L]
+RewriteRule ^logout   action.php?action=logout [QSA,L]
+</IfModule>

